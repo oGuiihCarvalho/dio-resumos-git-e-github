@@ -9,7 +9,7 @@ Git e GitHub da [DIGITAL INNOVATION ONE](https://www.dio.me/)
    - documentação GitHub (https://docs.github.com/)
 
 #  🖥️  Resumo das aulas 
- [AULAS - RESUMO]  
+ [AULAS - RESUMOS]  
  - gravando alterações no respositório local 
 
  () 
